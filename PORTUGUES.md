@@ -1,6 +1,6 @@
 # Como Relatar Bugs De Maneira Eficaz
 
-_por Simon Tatham, programador professional e de softwares de código-livre. Tradução para o português por [CJr](http://www.celiojunior.com.br)._
+_por Simon Tatham, programador profissional e de softwares de código-livre. Tradução para o português por [CJr](http://www.celiojunior.com.br)._
 
 ## Introdução 
 
@@ -8,7 +8,7 @@ Qualquer um que tenha escrito software para uso público provavelmente recebeu a
 
 Existe uma razão pela qual o suporte técnico é visto como um trabalho horrível para se fazer, e esta razão são os relatórios de bugs ruins. Entretanto, nem todos os relatórios de bug são desagradáveis: eu mantenho software livre quando não estou ganhando a vida, e algumas vezes recebo relatórios de bug maravilhosamente claros, úteis, _informativos_.
 
-Neste ensaio vou tentar identificar claramente o que faz um relatório de bugs ser bom. Idealmente, eu gostaria que todo o mundo lesse esse ensaio antes de fazer qualquer relatório de bug para qualquer um. Certamente eu gostaria que todos os que fizessem relatórios de bug para _mim_ o lessem.
+Neste ensaio vou tentar identificar claramente o que faz um relatório de bugs ser bom. Idealmente, eu gostaria que todo o mundo lesse esse ensaio antes de fazer qualquer relatório de bug para qualquer um. Certamente eu gostaria que todos que fazem relatórios de bug para _mim_ o lessem.
 
 Sinteticamente, o objetivo de um relatorio de bug é tornar os programadores capazes de ver a falha do programa acontecer em frente aos seus olhos. Você pode mostrar a eles pessoalmente, ou fornecer-lhes instruções detalhadas e cuidadosas sobre como fazer o programa falhar. Se eles puderem fazê-lo falhar, tentarão obter informações extras até descobrirem a causa da falha. Se eles não podem fazê-lo falhar, vão ter que pedir a você para conseguir essas informações para eles.
 
