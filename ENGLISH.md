@@ -127,4 +127,4 @@ _Disclaimer:_ I've never actually seen a mongoose or an antelope. My zoology may
 
 _$Id$_
 
-Copyright © 1999 Simon Tatham.  
+Copyright © 1999 Simon Tatham. Original: https://www.chiark.greenend.org.uk/~sgtatham/bugs.html
