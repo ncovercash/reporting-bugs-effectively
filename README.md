@@ -21,7 +21,7 @@
 ## About this essay
 
 This essay was not written by me — I just found it interesting and helpful, and hope you do the same.
-Thir essay was originally written by [Simon Tatham](http://www.chiark.greenend.org.uk/~sgtatham/), and put here with permission.
+The essay was originally written by [Simon Tatham](http://www.chiark.greenend.org.uk/~sgtatham/), and put here with permission.
 
 ## Improvements to this essay
 
